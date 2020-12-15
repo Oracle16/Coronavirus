@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: Coronavirus Flyer 
 Description: Create a Flyer about Coronavirus. Your Flyer should be Clearly visible from 6ft away. It also needs to include information you learned from this unit and guidance for what people can do to reduce the spread.
-icon: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
